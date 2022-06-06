@@ -1,0 +1,32 @@
+.col{
+    border: 1.5px solid black;
+    border-radius: 3px;
+    margin: 2px 2px 2px 2px;
+}
+
+.col-4{
+    border: 1.5px solid black;
+    border-radius: 3px;
+    margin: 2px 2px 2px 2px;
+}
+
+.col-8{
+    border: 1.5px solid black;
+    border-radius: 3px;
+    margin: 2px 2px 2px 2px;
+}
+
+.col-auto{
+    border: 1.5px solid black;
+    border-radius: 3px;
+    margin: 2px 2px 2px 2px;
+}
+
+.containerOne{
+    width: max-content;
+}
+
+#rowOne{
+    height: 75px;
+    width: 100%;
+}
